@@ -4,7 +4,7 @@
       "region": "us-east-1",
       "instance_type": "t2.micro",
       "ssh_username": "centos",
-      "source_ami_filter": "ami-4bf3d731",
+      "source_ami_filter": "ami-00068cd7555f543d5",
       "ami_name": "updated-ami {{timestamp}}"
     }]
   }
